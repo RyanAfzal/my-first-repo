@@ -5,3 +5,5 @@ NPM     : 2206081502
 Kelas   : PBP A
 
 Hobi    : Membaca
+
+Jurusan : Ilmu Komputer
